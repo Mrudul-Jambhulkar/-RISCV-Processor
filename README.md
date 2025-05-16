@@ -1,7 +1,7 @@
 # RISC-V Processor Design 🚀
 
 ## Overview 🌟
-This repository contains the implementation of **RISC-V Processor** ,  course project for **EE705 : VLSI Design Lab (Spring 2025, IIT Bombay)** . This project demonstrates a **System-on-Chip (SoC)** built around a RISC-V processor, implemented in Verilog and validated using Xilinx Vivado. The design integrates a RISC-V core, AXI4-Lite to AXI4 converter, interrupt controller, and peripherals such as UART, SPI, and GPIO. 
+This repository contains the implementation of **RISC-V Processor** ,  course project for **EE705 : VLSI Design Lab (Spring 2025, IIT Bombay)** . This project demonstrates a **System-on-Chip (SoC)** built around a RISC-V processor, implemented in Verilog and validated using Xilinx Vivado. The design integrates a RISC-V core, AXI4-Lite to AXI4 converter, interrupt controller, and peripherals - UART, Timer, SPI, and GPIO. 
 
 
 ## Key Features ✨
